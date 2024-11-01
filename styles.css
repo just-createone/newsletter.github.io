@@ -50,7 +50,7 @@ img {
     border-radius:13px;
 }
 
-.button1 {
+input {
     width:80%;
     height:60px;
     margin:30px auto;
@@ -59,6 +59,7 @@ img {
     color:#6C727F;
     font-size:15px;
     border: 1px solid #E5E7EB;
+    text-align:center;
 }
 
 .button2 {
